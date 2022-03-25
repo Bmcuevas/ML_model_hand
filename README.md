@@ -8,7 +8,7 @@ This folder contains an .ino file, which is used to control five servo motors vi
 
 ## ML
 
-This folder contains a web application to control five servomotors using an AI model. I have made the model in Teachable Machine, from google. This model uses the computer camera. 
+This folder contains a web application to control five servomotors using an AI model. I have made the model in Teachable Machine, from google. This model uses your computer's camera. 
 
 To open the web application follow these steps: 
 
