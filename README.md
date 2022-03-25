@@ -16,15 +16,9 @@ To open the web application follow these steps:
 
 2. Run te cmd. 
 
-3. Search for the cd of the repository. In my case: 
+3. Search for the cd of the repository. In my case: "cd desktop/osde/arduino/ML/ML/ML_MODEL".
 
-"cd desktop/osde/arduino/ML/ML/ML_MODEL".
+4. Host a server on your computer using python: "python -m SimpleHTTPServer"
 
-4. Host a server on your computer using python. 
-
-python -m SimpleHTTPServer
-
-5. Paste the following link in your browser. 
-
-"http://localhost:8000/"
+5. Paste the following link in your browser: "http://localhost:8000/"
 
