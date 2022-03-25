@@ -28,4 +28,3 @@ python -m SimpleHTTPServer
 
 "http://localhost:8000/"
 
-Translated with www.DeepL.com/Translator (free version)
